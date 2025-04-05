@@ -102,6 +102,14 @@ npm run dev
 ```
 
 ---
+## 📸 Capturas de pantalla
+
+![Home](./screenshots/home.jpg)
+![Editando](./screenshots/edit.jpg)
+![Nueva](./screenshots/nueva.jpg)
+![Probando](./screenshots/test.jpg)
+![borrando](./screenshots/borrando.jpg)
+---
 
 ## 🧑‍💻 Autor
 
