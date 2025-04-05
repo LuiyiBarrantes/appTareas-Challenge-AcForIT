@@ -1,4 +1,4 @@
-# 📝 App de Lista de Tareas - Challenge AcForIT
+# 📝 App de Lista de Tareas - Challenge AcademiaForIT
 
 Este proyecto es una aplicación fullstack sencilla construida con **React (Vite)** en el frontend y **Express** en el backend usando typescript de forma muy basica. Tiene la funcionaliad de un CRUD primitivo, siguiendo el concepto de mantener un array de las tareas en memoria.
 
@@ -19,7 +19,7 @@ Este proyecto es una aplicación fullstack sencilla construida con **React (Vite
 ```bash
 git clone https://github.com/LuiyiBarrantes/appTareas-Challenge-AcForIT
 cd appTareas-Challenge-AcForIT
-
+```
 ---
 
 ### ⚙️ 2. Instalar dependencias
