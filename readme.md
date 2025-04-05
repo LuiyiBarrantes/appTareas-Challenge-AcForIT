@@ -106,6 +106,3 @@ npm run dev
 ## 🧑‍💻 Autor
 
 Proyecto realizado por **Barrantes Luis Alfredo** para el challenge de **AcademiaForIT**.
-```
-
----
