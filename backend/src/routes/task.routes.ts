@@ -6,7 +6,7 @@ const appTasksRouter = Router();
 appTasksRouter.get('/', (req: Request, res: Response) => {
     res.send('Benvenido a la  API de Tareas');
 });
-appTasksRouter.get('/', getTasks)
+appTasksRouter.get('/all', getTasks)
 .get('/:id', getTask);
 appTasksRouter.post('/', createTask);
 appTasksRouter.put('/update/:id', updateTask);
