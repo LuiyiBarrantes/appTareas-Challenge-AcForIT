@@ -6,7 +6,7 @@ export const TaskProvider = (props) => {
   const [tasks, setTasks] = useState([]);
   const fetchTasks = async () => {
       try {
-          const response = await fetch('http://localhost:3000/api/tasks');
+          const response = await fetch('http://localhost:3000/api/tasks/all');
           if (!response.ok) {
               throw new Error('Failed to fetch tasks');
             }
